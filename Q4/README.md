@@ -65,4 +65,7 @@ Q4
 ### Conclusion
 
 This implementation fulfills all requirements for Question 4, including successful API usage, correct enrichment logic, and proper file output generation.
-This module was tested successfully and verified.
+
+The API integration was tested successfully using the DummyJSON API.
+Product data was fetched, mapped correctly, and used to enrich sales
+transactions. Enriched data was saved to the output file as expected.
